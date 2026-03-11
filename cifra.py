@@ -1,13 +1,3 @@
-# Cifra-de-Cesar
-
----
-
-<div align="center">
-    <img src="https://media.tenor.com/AKNd9TRbIbAAAAAM/caesar-gaalrdo-thumb.gif">
-</div>
-
-```python
-
 # Iniciando projeto Cifra de Cesar
 import os
 
@@ -45,5 +35,3 @@ def cifra(texto, numero):
 
 print(cifra("MarioBros",3))
 print("==========================")
-
-```
